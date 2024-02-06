@@ -1,0 +1,2 @@
+Category: Groceries
+  Amount: 72.43, Date: 2024-01-27 00:10:25, Action: Added
